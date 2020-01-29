@@ -1,4 +1,4 @@
-1.	Using while loop create sum of two no with ask permission to continue or not.
+#Using while loop create sum of two no with ask permission to continue or not.
 
 i=1
 while i<=4:
